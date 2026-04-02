@@ -5,6 +5,10 @@
   position: relative;
 }
 
+body{
+  padding-top:100px;
+}
+
 /* PageBackground component handles the fixed image and overlay */
 
 /* Header */
@@ -178,6 +182,9 @@
   border-radius: 12px;
 }
 
+.video-player-wrapper {
+  margin-top: 20px;
+}
 
 /* --- RESPONSIVE ADJUSTMENTS --- */
 @media (max-width: 768px) {
